@@ -30,7 +30,7 @@
 <br><br>
 
   <p align="center">
-  <img src="" alt="Novo GIF" width="500">  
+  <img src="d89bbc64bf0859b0b54e7397b316199f.gif" alt="Novo GIF" width="100%" height="100%">  
 </p>
 
 
